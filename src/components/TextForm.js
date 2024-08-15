@@ -40,7 +40,6 @@ const handleExtraSpace =()=>{
           <button className='btn btn-primary mx-3 ' onClick={handleUpClick}>Convert to uppercase</button>
           <button className='btn btn-primary mx-3' onClick={handleLowerClick}>Convert to lowercase</button>
           <button className='btn btn-primary mx-3' onClick={handleClearClick}>Clear text</button>
-          <button className='btn btn-primary mx-3' onClick={handleClearClick}>Clear text</button>
           <button className='btn btn-primary mx-3' onClick={handleExtraSpace}>Clear space</button>
     </div>
 
